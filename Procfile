@@ -1,0 +1,1 @@
+web: gunicorn mortal.wsgi --log-level debug
